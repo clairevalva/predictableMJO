@@ -1,0 +1,8 @@
+/inputs/
+/data/
+/figures/
+/.julia_depot/
+/.cache/
+*.jl.cov
+*.jl.mem
+.DS_Store

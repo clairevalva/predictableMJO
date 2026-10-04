@@ -1,0 +1,66 @@
+# Exact external input snapshots; paths are relative to PREDICTABLEMJO_INPUT_ROOT.
+
+[[files]]
+path = "data_clim_processed/OLR_feb25.nc"
+bytes = 1060868546
+sha256 = "c7ea9a9e007472ef35cb9dbd4a3b96dee30ab055bee819606a6952bddc8ed1c5"
+
+[[files]]
+path = "data_clim_processed/u_feb25.nc"
+bytes = 1283813219
+sha256 = "7bb9bfcb080fbe0e78cd798f85bcc6bc061fdfefaf9baa20675f97782ac99f6a"
+
+[[files]]
+path = "data_clim_processed/precip_sep25_02.nc"
+bytes = 1060868545
+sha256 = "dd03deb21ec118d7d6793bf813436cf0dac24168070af3f75110cbc9a97f16b7"
+
+[[files]]
+path = "data_clim_processed/merid_avgs_predict_6_2025.h5"
+bytes = 70147856
+sha256 = "9ee281cb064129511760e661a21d921d2ca4444a1c88ec243453b7d294fa65eb"
+
+[[files]]
+path = "climdata/RMM_data_edit.csv"
+bytes = 1384036
+sha256 = "db4f43a2f2b1e5ee79c185c4a590aa4b70c55e56922007e88bf784f6eedb0327"
+
+[[files]]
+path = "climdata/BSISO_kikuchi.csv"
+bytes = 735471
+sha256 = "c1fa004f9565e497646f29da225bb9e146646a500bd18e1b0c635c03230b9dff"
+
+[[files]]
+path = "climdata/omi.1x.txt"
+bytes = 452893
+sha256 = "52b5d504eb5933b638ace34fde813fc4be5194f1a05156a0879e536eb13d1b49"
+
+[[files]]
+path = "climdata/fmo.1x.txt"
+bytes = 803550
+sha256 = "de91cab8035e7920a4929867491f3b565da5af31f3fcaaf952564b6f81ff9e80"
+
+[[files]]
+path = "model_RMM_pred/merged_RMM/RMMS_ecmwf_realtime.nc"
+bytes = 6274530
+sha256 = "49e4aad0a91619f41829f0548d6dcbc4459ec33ca44b93151a2c79f0b7e1b4a5"
+
+[[files]]
+path = "model_RMM_pred/merged_RMM/RMMS_hmcr_realtime.nc"
+bytes = 1915963
+sha256 = "f80e35e7187a0e2f8ab9c368962b11e443aa1b0881f83e804e943fd1da9511e5"
+
+[[files]]
+path = "model_RMM_pred/merged_RMM/RMMS_kma_realtime.nc"
+bytes = 11862586
+sha256 = "21c805ca8b992982ae147d8ea4472e244ad2e0a064e946b5fdb88c463915ac5f"
+
+[[files]]
+path = "model_RMM_pred/merged_RMM/RMMS_ncep_realtime.nc"
+bytes = 9760938
+sha256 = "1736fffbb4331e5b4834a17fcf0b919712d85aa3e2cca2fa6e6155cb33134773"
+
+[[files]]
+path = "model_RMM_pred/merged_RMM/RMMS_ukmo_realtime.nc"
+bytes = 12907826
+sha256 = "f474ee6407a32883f1a3306c337e94cdf3057d3e209df371db3dd37404731459"
